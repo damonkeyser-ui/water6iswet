@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-11",
+  "sources": ["dankmaps.co.za/map", "daggaspot.co.za", "instagram.com/highgroundsblvd"],
+  "added": [
+    {
+      "id": 1456,
+      "name": "Highgrounds BLVD",
+      "type": "Private Club",
+      "address": "Illovo Junction, 1 Corlett Drive, Illovo, Johannesburg, 2146",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "country": "South Africa",
+      "lat": -26.1336,
+      "lng": 28.0485,
+      "instagram": "https://www.instagram.com/highgroundsblvd/",
+      "website": "https://highgroundsblvd.com",
+      "hours": "Wed-Sun: 10:00 AM - 10:00 PM",
+      "isNew": true
+    }
+  ],
+  "events_added": [
+    {
+      "id": 9,
+      "title": "Weed Lovers First Thursday",
+      "date": "2026-10-01",
+      "address": "7 Loveday Street, Johannesburg"
+    }
+  ],
+  "already_on_map_examples": ["Bud Box Honeycrest", "Herb Haus Craighall", "Dazed and Blazed", "Canna Studio", "Seknd Nature"]
+}
