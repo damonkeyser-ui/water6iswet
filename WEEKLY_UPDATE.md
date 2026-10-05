@@ -2,6 +2,21 @@
 
 Latest run writes below. Oldest stays at the bottom.
 
+## 2026-10-05
+**Map updated: 5 new stores, 0 new events.** Commit: https://github.com/damonkeyser-ui/water6iswet/commit/f26502acb5903e1b8bc0dc03921314fb38905a68
+
+### New stores (5)
+- Seknd Nature Newlands — 13 Glenhoff Road, Newlands, Cape Town (private club)
+- Seknd Nature Kalk Bay — 124 Main Road, Kalk Bay (private club)
+- Seknd Nature Somerset West — G03 House of Levi, 12A De Beers Avenue, Paardevlei (private club)
+- Highest Point Club Jeffreys Bay — The Beach Centre, 119 Da Gama Road, Ferreira Town (private club)
+- HempWell Harrogate — 2 Garrick Buildings, Oxford Street, Harrogate HG1 1QE, UK (CBD shop)
+
+### New events (0)
+None verified this week.
+
+NEW_STORE_IDS = [1465, 1466, 1467, 1468, 1469]
+
 ## 2026-09-21
 **Real push** — earlier log claimed 6 stores but `index.html` was not updated. This commit adds verified physical listings only.
 
