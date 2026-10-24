@@ -1,8 +1,13 @@
 {
-  "version": 1,
-  "exportedAt": "2026-09-30T21:45:39.239Z",
-  "visited": [],
-  "unsuccess": [],
+  "version": 2,
+  "exportedAt": "2026-10-24T08:47:33.786Z",
+  "visited": [
+    954,
+    69
+  ],
+  "unsuccess": [
+    188
+  ],
   "hidden": [
     852,
     841,
@@ -10,7 +15,65 @@
     786,
     36
   ],
-  "meta": {},
+  "closed": [
+    671,
+    188
+  ],
+  "meta": {
+    "69": {
+      "note": "",
+      "date": "2026-10-24",
+      "ts": 1792824274994
+    },
+    "188": {
+      "note": "",
+      "date": "2026-10-24",
+      "ts": 1792823317782
+    },
+    "954": {
+      "note": "",
+      "date": "2026-10-24",
+      "ts": 1792824266923
+    },
+    "90001": {
+      "note": "",
+      "date": "2026-10-24",
+      "ts": 1792831501172
+    }
+  },
   "routeStops": [],
-  "favs": []
+  "favs": [
+    671,
+    1472
+  ],
+  "addrOverrides": {},
+  "customStores": [
+    {
+      "id": 90001,
+      "name": "d",
+      "type": "Dispensary",
+      "province": "",
+      "city": "",
+      "suburb": "",
+      "address": "",
+      "lat": -26.179325,
+      "lng": 27.96587,
+      "rating": null,
+      "reviews": 0,
+      "openNow": false,
+      "hours": null,
+      "phone": null,
+      "verified": false,
+      "description": null,
+      "website": null,
+      "tags": [
+        "Custom"
+      ],
+      "category": "Store",
+      "country": "South Africa",
+      "slug": "custom-90001",
+      "isCustom": true,
+      "isNew": true
+    }
+  ]
 }
