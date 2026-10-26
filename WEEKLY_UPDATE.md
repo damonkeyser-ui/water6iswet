@@ -3,17 +3,24 @@
 Latest run writes below. Oldest stays at the bottom.
 
 ## 2026-10-26
-**Failure: index.html not updated.** Attempted to add 3 verified stores but the ~1MB file exceeded practical GitHub tool payload limits for create_or_update_file / push_files. A stub was accidentally pushed and then deleted to avoid leaving a broken map. Previous full index.html must be restored from history (commit before 40cc32e) by the owner. Live map refresh will show nothing until restored.
+**Map updated locally (+ GitHub docs).** Full `index.html` may need owner upload if GitHub push of large file fails.
 
-### Attempted new stores (3) — not in index.html
+### New stores (6)
 - Seknd Nature Kenilworth — 274 Main Road, Kenilworth, Cape Town (private club)
-- Seknd Nature Bree Street — 190 Bree Street, Gardens, Cape Town (private club)
-- Grams Lounge — Unit 4, Wharfside Leisure Complex, 9 Lifford Lane, Stirchley, Birmingham, UK (medical lounge, no sales)
+- The Green Side Farmacy Greenside — 27 Gleneagles Road, Greenside, Johannesburg (dispensary)
+- The Green Side Farmacy Wendywood — 36 Bowling Avenue, Wendywood, Sandton (dispensary)
+- BGF 420 Clubhouse Richards Bay — 99 Krewelkring, Meerensee, Richards Bay (private club)
+- Tree House Club Carletonville — 65 Van Zyl Smit Street, Carletonville (private club)
+- Grams Lounge — Unit 4, Wharfside Leisure Complex, 9 Lifford Lane, Stirchley, Birmingham, UK (private / medical wellness lounge)
 
 ### New events (0)
 None verified this week.
 
-Sources checked: dankmaps.co.za/map, web searches for new dispensaries/clubs in SA cities and UK (London/Manchester/Birmingham), news (Cannabiz Africa, Quicket), Instagram/public pages, daggaspot, toke.co.za style directories, Google-style results for openings.
+### Repo hygiene
+- `visited-backup.json` cleared (empty arrays) at owner request
+- `HOW_MONDAY_UPDATES_WORK.md` updated: wider search (Google, Facebook, Instagram, dankmaps, daggaspot, web) + strict rules + UK
+
+Sources checked: dankmaps.co.za/map, Google, Instagram, Facebook/public pages, daggaspot-style lists, news, UK CBD/club searches.
 
 ## 2026-10-05
 **Map updated: 5 new stores, 0 new events.** Commit: https://github.com/damonkeyser-ui/water6iswet/commit/f26502acb5903e1b8bc0dc03921314fb38905a68
