@@ -8,14 +8,15 @@ Every Monday **09:00 SAST**. Automation name: water6iswet Monday map update.
 
 ## Sources (wider search — use all of these)
 1. **https://dankmaps.co.za/map** — primary SA store/event candidates  
-2. **daggaspot** (and similar SA directories)  
-3. **Google** — search queries such as:
+2. **https://findweed.co.za** (and **/find-weed**) — SA directory of shops, clubs, CBD  
+3. **daggaspot** (and similar SA directories)  
+4. **Google** — search queries such as:
    - `"dispensary" OR "cannabis club" OR "private club" Cape Town / Johannesburg / Pretoria / Durban / Gqeberha`
    - `"cannabis club" OR "CBD shop" OR "headshop" London / Manchester / Birmingham / Edinburgh / UK`
    - `"new dispensary" OR "opening soon" South Africa 2026`
-4. **Instagram** — public pages/handles for SA & UK shops; posts about openings  
-5. **Facebook** — public business pages / local “new business” posts for clubs & shops  
-6. **Other web** — news (e.g. Cannabiz Africa), toke.co.za-style lists, official shop sites  
+5. **Instagram** — public pages/handles for SA & UK shops; posts about openings  
+6. **Facebook** — public business pages / local “new business” posts for clubs & shops  
+7. **Other web** — news (e.g. Cannabiz Africa), toke.co.za-style lists, official shop sites  
 
 Always cover **both South Africa and the United Kingdom**.
 
