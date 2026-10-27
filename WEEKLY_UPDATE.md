@@ -2,6 +2,15 @@
 
 Latest run writes below. Oldest stays at the bottom.
 
+## 2026-10-27 (Google Maps pass)
+**Google Maps / web listings** checked for SA + UK. Most SA hits already on map (Herb Haus, etc.).
+
+### New stores (1)
+- Canna Club Shoreditch — 228 Shoreditch High Street, London (CBD shop)
+
+### Automation
+`HOW_MONDAY_UPDATES_WORK.md` now lists **Google Maps** public place listings as a Monday source (with address verification rules).
+
 ## 2026-10-27
 **findweed.co.za pass.** Most directory names already on map. Added 3 missing physical listings.
 
