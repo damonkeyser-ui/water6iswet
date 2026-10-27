@@ -4,50 +4,48 @@ Private map: https://damonkeyser-ui.github.io/water6iswet/
 Live file: `index.html` only.
 
 ## When
-Every Monday **09:00 SAST**. Automation name: water6iswet Monday map update.
+Every Monday **09:00 SAST**. Automation: water6iswet Monday map update.
 
-## Sources (wider search — use all of these)
-1. **https://dankmaps.co.za/map** — primary SA store/event candidates  
-2. **https://findweed.co.za** (and **/find-weed**) — SA directory of shops, clubs, CBD  
-3. **https://cannamap.club** — large SA clubs/dispensaries map (CannaMapZA)  
-4. **https://thcdirectory.co.za** — clubs, dispensaries, grow shops, events  
-5. **https://toke.co.za** — social clubs / head shops / business listings  
-6. **https://www.zazamap.com** — clubs map (SA + other countries; only SA/UK)  
-7. **daggaspot** (and similar SA directories)  
-8. **Google Maps** — public place listings for cannabis club / dispensary / CBD shop / headshop in SA & UK cities (name + full address + phone). Prefer a second source.  
-9. **Google** (web) — city queries and “new dispensary” / “opening soon”  
-10. **Instagram** — public pages/handles; openings  
-11. **Facebook** — public business pages / local new-business posts  
-12. **UK directories** when relevant: cannabias.io/lounges, cbd-maps.com, cannabishealthnews.co.uk/directory  
-13. **Other web** — news (e.g. Cannabiz Africa), official shop sites  
+## Sources
+Search all of these for **new** physical shops (and events) in **South Africa and the UK**:
 
-Also note any **new directory sites** found that week and fold them into this list next run.
+**Directories / maps**
+- https://dankmaps.co.za/map  
+- https://findweed.co.za (and /find-weed)  
+- https://cannamap.club  
+- https://thcdirectory.co.za  
+- https://toke.co.za  
+- https://www.zazamap.com (SA/UK only)  
+- daggaspot and similar SA lists  
 
-Always cover **both South Africa and the United Kingdom**.
+**Search & social**
+- Google Maps (place listings with full address)  
+- Google web (“dispensary”, “cannabis club”, “CBD shop”, “opening soon” + city)  
+- Instagram & Facebook public business pages / openings  
 
-## Add a store only if ALL of these are true
-- Physical storefront in **South Africa** or the **United Kingdom**
-- Real street address that geocodes to SA/UK lat/lng
-- Not online-only, not USA, not a restaurant/bar/nightclub unless it is clearly a weed/CBD/grow/head shop or private cannabis club
-- Not a duplicate of an existing `name` + `city` in STORES
-- Prefer complete details: address, phone, website, Instagram, hours
+**UK extras**
+- cannabias.io/lounges, cbd-maps.com, cannabishealthnews.co.uk/directory  
 
-## Store fields
-Use the existing STORES schema. New shops get the next integer `id` and `isNew: true` (so they show under New).  
-Include when public: name, type, province, city, suburb, address, lat, lng, phone, website, instagram, hours, country.
+If a **new directory site** appears that week, use it and add it to this list next run.
 
-**Types:** Dispensary, Private Club, CBD Shop, Grow Shop, Headshop.
+## Add a store only if
+- Physical storefront in **SA or UK**
+- Real street address that geocodes to SA/UK lat/lng  
+- Not online-only, USA, or a non-weed restaurant/bar/nightclub  
+- Not a duplicate of existing `name` + `city`  
+- Prefer phone / website / Instagram / hours when public  
+
+**Types:** Dispensary · Private Club · CBD Shop · Grow Shop · Headshop  
+
+New shops: next integer `id`, `isNew: true`, existing STORES schema.
 
 ## Events
-Add upcoming events only (day, month, year, title, place, city, country, lat, lng).  
-Pins and tab items drop the morning after the event date (`liveEvents()`).
+Upcoming only. Drop the morning after the date (`liveEvents()`).
 
 ## Do not change
-Map look, colours, coverage, visited, hide, Near, or other UI.  
-Do not wipe `index.html`.  
-Visited / failure marks stay on the owner’s device (localStorage).  
-Do not put personal visit data into the shared repo unless the owner exports it on purpose.
+Map UI, colours, coverage, visited, hide, Near. Do not wipe `index.html`.  
+Visited data stays on the owner’s device unless they export it.
 
 ## Commit
 `Weekly update: N new stores, M new events (YYYY-MM-DD)`  
-List what was added in `WEEKLY_UPDATE.md` (run log only — not the same as this instruction file).
+Log what was added in `WEEKLY_UPDATE.md`.
