@@ -9,12 +9,19 @@ Every Monday **09:00 SAST**. Automation name: water6iswet Monday map update.
 ## Sources (wider search — use all of these)
 1. **https://dankmaps.co.za/map** — primary SA store/event candidates  
 2. **https://findweed.co.za** (and **/find-weed**) — SA directory of shops, clubs, CBD  
-3. **daggaspot** (and similar SA directories)  
-4. **Google Maps** — public place listings for “cannabis club”, “dispensary”, “CBD shop”, “headshop” in SA cities and UK cities (name + full address + phone when shown). Prefer listings that also appear on the business’s own site or a second source.  
-5. **Google** (web search) — e.g. `"dispensary" OR "cannabis club" Cape Town / Johannesburg / Pretoria / Durban` and UK equivalents; “new dispensary” / “opening soon”  
-6. **Instagram** — public pages/handles for SA & UK shops; posts about openings  
-7. **Facebook** — public business pages / local new-business posts  
-8. **Other web** — news (e.g. Cannabiz Africa), toke.co.za-style lists, official shop sites  
+3. **https://cannamap.club** — large SA clubs/dispensaries map (CannaMapZA)  
+4. **https://thcdirectory.co.za** — clubs, dispensaries, grow shops, events  
+5. **https://toke.co.za** — social clubs / head shops / business listings  
+6. **https://www.zazamap.com** — clubs map (SA + other countries; only SA/UK)  
+7. **daggaspot** (and similar SA directories)  
+8. **Google Maps** — public place listings for cannabis club / dispensary / CBD shop / headshop in SA & UK cities (name + full address + phone). Prefer a second source.  
+9. **Google** (web) — city queries and “new dispensary” / “opening soon”  
+10. **Instagram** — public pages/handles; openings  
+11. **Facebook** — public business pages / local new-business posts  
+12. **UK directories** when relevant: cannabias.io/lounges, cbd-maps.com, cannabishealthnews.co.uk/directory  
+13. **Other web** — news (e.g. Cannabiz Africa), official shop sites  
+
+Also note any **new directory sites** found that week and fold them into this list next run.
 
 Always cover **both South Africa and the United Kingdom**.
 
