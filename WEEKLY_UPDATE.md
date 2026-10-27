@@ -2,6 +2,14 @@
 
 Latest run writes below. Oldest stays at the bottom.
 
+## 2026-10-27 (extra pass — social + Google + UK)
+Wider search: Instagram public pages, Google/news, UK CBD retail. Strict rules only.
+
+### New stores (3)
+- Tiny Town — 1229 Stellenberg Road, Equestria, Pretoria (private club / grow shop)
+- THC Social Club — 7a Beckham Street Unit 21A, Gardens, Cape Town (private club)
+- CBD Healing Store Colchester — 1 Red Lion Yard, Colchester, UK (CBD shop)
+
 ## 2026-10-27 (directory sites expansion)
 Added **cannamap.club**, **thcdirectory.co.za**, **toke.co.za**, **zazamap.com** (+ UK lounge/CBD directories) to Monday sources. Extracted new physical listings not already on the map.
 
