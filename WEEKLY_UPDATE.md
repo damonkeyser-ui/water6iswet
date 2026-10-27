@@ -2,6 +2,17 @@
 
 Latest run writes below. Oldest stays at the bottom.
 
+## 2026-10-27 (directory sites expansion)
+Added **cannamap.club**, **thcdirectory.co.za**, **toke.co.za**, **zazamap.com** (+ UK lounge/CBD directories) to Monday sources. Extracted new physical listings not already on the map.
+
+### New stores (3)
+- The Green Hug — 54 Spruit Street, Potchefstroom (dispensary)
+- Alpha Pack Cannabis Club — 34 Peter Place, Bryanston (private club)
+- Greenrose Premium Dispensary — 123 Stephen Dlamini Road, Musgrave, Durban (dispensary)
+
+### Note
+Many CannaMap / ZazaMap names were already present. Only fully addressed, non-duplicate SA/UK shops added.
+
 ## 2026-10-27 (Google Maps pass)
 **Google Maps / web listings** checked for SA + UK. Most SA hits already on map (Herb Haus, etc.).
 
