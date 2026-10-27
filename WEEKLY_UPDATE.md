@@ -2,6 +2,20 @@
 
 Latest run writes below. Oldest stays at the bottom.
 
+## 2026-10-27
+**findweed.co.za pass.** Most directory names already on map. Added 3 missing physical listings.
+
+### New stores (3)
+- Amsterdam Botanica — Broadway East, Valhalla, Centurion (dispensary)
+- AstomBuds Dispensary — Havelock Road, Willow Park Manor, Pretoria (dispensary)
+- Bud Box Broadway — 60 Adelaide Tambo Drive, Durban North (private club)
+
+### Sources
+findweed.co.za / find-weed + city pages; strict dedupe against existing STORES.
+
+### Automation
+`HOW_MONDAY_UPDATES_WORK.md` now includes **https://findweed.co.za** in Monday sources.
+
 ## 2026-10-26
 **Map updated locally (+ GitHub docs).** Full `index.html` may need owner upload if GitHub push of large file fails.
 
@@ -29,7 +43,7 @@ Sources checked: dankmaps.co.za/map, Google, Instagram, Facebook/public pages, d
 - Seknd Nature Newlands — 13 Glenhoff Road, Newlands, Cape Town (private club)
 - Seknd Nature Kalk Bay — 124 Main Road, Kalk Bay (private club)
 - Seknd Nature Somerset West — G03 House of Levi, 12A De Beers Avenue, Paardevlei (private club)
-- Highest Point Club Jeffreys Bay — The Beach Centre, 119 Da Gama Road, Ferreira Town (private club)
+- Highest Point Club Jeffreys Bay — The Beach Centre, 119 Da Gama Road, Ferreira Town, Jeffreys Bay (private club)
 - HempWell Harrogate — 2 Garrick Buildings, Oxford Street, Harrogate HG1 1QE, UK (CBD shop)
 
 ### New events (0)
